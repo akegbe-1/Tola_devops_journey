@@ -38,3 +38,12 @@ Popular DevOps Tools:
 - Docker (containerization)
 - Kubernetes (orchestration)
 - Ansible (automation)
+
+install git
+install vscode
+cretate a github account
+create a new repository projet account
+create additional branches
+create a pul request
+protect branch
+create a merge
