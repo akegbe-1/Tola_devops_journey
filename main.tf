@@ -9,6 +9,8 @@ terraform {
 
 provider "aws" {
     region = "us-east-1"
+    # Access key and secret key will be read from environment variables:
+    # AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY
 }
 
 resource "aws_instance" "example" {
