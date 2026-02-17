@@ -23,3 +23,12 @@ list most important git commands for devops
 - `git fetch` - Download objects from remote repository
 - `git config` - Set Git configuration
 - `git blame` - Show who changed each line
+
+- install git
+- installl vscode
+- create github account
+- createt a project /repository
+- push request
+- create btranches frm main
+- pull request
+- merge request
